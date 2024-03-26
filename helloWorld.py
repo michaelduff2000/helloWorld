@@ -1,2 +1,2 @@
 username = input("Please enter your name:")
-print(f"{username}, Git is awesome!")
+print(f"{username}, bot YOU and Git are awesome!")
